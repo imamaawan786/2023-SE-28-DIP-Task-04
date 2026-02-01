@@ -1,2 +1,3 @@
 # 2023-SE-28-DIP-Task-04
 Task 4
+Develop a Python application to perform advanced image enhancement techniques on a color image using OpenCV, NumPy, and Matplotlib. The program should read and display the original image, convert it into YCrCb color space, and apply histogram equalization on the luminance channel. In addition, perform manual histogram equalization using histogram and CDF calculation. Apply contrast stretching to improve the visual quality of the image. Implement and demonstrate point transformations including logarithmic transformation and gamma correction. Present all the enhanced images along with their histograms and titles for visual comparison.
